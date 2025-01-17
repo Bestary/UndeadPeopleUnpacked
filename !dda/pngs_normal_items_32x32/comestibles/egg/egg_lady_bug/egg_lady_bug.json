@@ -1,0 +1,10 @@
+{
+  "id": "egg_lady_bug",
+  "fg": [
+    "egg_lady_bug"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

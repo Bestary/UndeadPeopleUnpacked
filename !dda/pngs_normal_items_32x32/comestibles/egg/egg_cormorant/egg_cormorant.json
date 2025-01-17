@@ -1,0 +1,10 @@
+{
+  "id": "egg_cormorant",
+  "fg": [
+    "egg_cormorant"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

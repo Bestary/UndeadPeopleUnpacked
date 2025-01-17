@@ -1,0 +1,10 @@
+{
+  "id": "egg_woodpecker",
+  "fg": [
+    "egg_woodpecker"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

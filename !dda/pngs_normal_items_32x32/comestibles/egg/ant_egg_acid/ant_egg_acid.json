@@ -1,0 +1,10 @@
+{
+  "id": "ant_egg_acid",
+  "fg": [
+    "ant_egg_acid"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

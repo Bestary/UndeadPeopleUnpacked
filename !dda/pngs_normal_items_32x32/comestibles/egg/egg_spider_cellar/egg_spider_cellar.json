@@ -1,0 +1,10 @@
+{
+  "id": "egg_spider_cellar",
+  "fg": [
+    "egg_spider_cellar"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
