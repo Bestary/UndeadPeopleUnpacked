@@ -1,0 +1,10 @@
+{
+  "id": "egg_cardinal",
+  "fg": [
+    "egg_cardinal"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

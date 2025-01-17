@@ -1,0 +1,10 @@
+{
+  "id": "egg_strider",
+  "fg": [
+    "egg_strider"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

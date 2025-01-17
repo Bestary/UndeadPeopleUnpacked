@@ -1,0 +1,10 @@
+{
+  "id": "egg_hummingbird",
+  "fg": [
+    "egg_hummingbird"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

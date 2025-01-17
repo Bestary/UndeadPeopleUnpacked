@@ -1,0 +1,10 @@
+{
+  "id": "egg_water_beetle",
+  "fg": [
+    "egg_water_beetle"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}

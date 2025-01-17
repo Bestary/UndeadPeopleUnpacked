@@ -1,0 +1,10 @@
+{
+  "id": "egg_mole_cricket",
+  "fg": [
+    "egg_mole_cricket"
+  ],
+  "bg": [
+    "bg_shadow_item"
+  ],
+  "rotates": false
+}
